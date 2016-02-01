@@ -1,0 +1,5 @@
+{
+	"name": "scent",
+	"main": "scent.d.ts",
+	"description": "Scent - A System-Component-Entity framework"
+}
